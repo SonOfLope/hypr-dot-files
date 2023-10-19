@@ -1,0 +1,3 @@
+config/rofi/*
+!config/rofi/catppuccin.rasi
+!config/rofi/config.rasi
