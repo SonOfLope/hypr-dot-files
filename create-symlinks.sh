@@ -49,3 +49,6 @@ link_config $(pwd)/config/system_scripts ~/.config/system_scripts
 link_config $(pwd)/backgrounds ~/.config/backgrounds
 link_config $(pwd)/config/dunst ~/.config/dunst
 link_config $(pwd)/config/rofi ~/.config/rofi
+link_config $(pwd)/config/wlogout ~/.config/wlogout
+link_config $(pwd)/config/swaylock ~/.config/swaylock
+link_config $(pwd)/config/neofetch ~/.config/neofetch
