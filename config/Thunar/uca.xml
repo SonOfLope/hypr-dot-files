@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+<action>
+	<icon>utilities-terminal</icon>
+	<name>Open Terminal Here</name>
+	<unique-id>1537518114778342-1</unique-id>
+	<command>xfce4-terminal --working-directory %f --maximize</command>
+	<description>Example for a custom action</description>
+	<patterns>*</patterns>
+	<startup-notify/>
+	<directories/>
+</action>
+<action>
+	<icon>vlc</icon>
+	<name>Open VLC Here</name>
+	<unique-id>1529744817695650-1</unique-id>
+	<command>vlc %f</command>
+	<description>Open this folder with VLC</description>
+	<patterns>*</patterns>
+	<directories/>
+</action>
+<action>
+	<icon>visual-studio-code</icon>
+	<name>VS Code</name>
+	<unique-id>1532182954220304-1</unique-id>
+	<command>code %f</command>
+	<description>Open VS Code Here</description>
+	<patterns>*</patterns>
+	<directories/>
+</action>
+<action>
+	<icon>search</icon>
+	<name>Search files</name>
+	<unique-id>1533476985678385-1</unique-id>
+	<command>catfish --hidden --large-icons --path=%f</command>
+	<description>Search using catfish</description>
+	<patterns>*</patterns>
+	<directories/>
+</action>
+<action>
+	<icon>vim</icon>
+	<name>vim</name>
+	<unique-id>1638463785670357-1</unique-id>
+	<command>vim %f</command>
+	<description>Open this folder in vim</description>
+	<patterns>*</patterns>
+	<directories/>
+</action>
+</actions>

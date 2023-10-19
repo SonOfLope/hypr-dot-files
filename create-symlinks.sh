@@ -52,3 +52,5 @@ link_config $(pwd)/config/rofi ~/.config/rofi
 link_config $(pwd)/config/wlogout ~/.config/wlogout
 link_config $(pwd)/config/swaylock ~/.config/swaylock
 link_config $(pwd)/config/neofetch ~/.config/neofetch
+link_config $(pwd)/config/Thunar ~/.config/Thunar
+link_config $(pwd)/config/gtk-3.0 ~/.config/gtk-3.0

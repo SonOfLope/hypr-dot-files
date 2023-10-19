@@ -1,3 +1,4 @@
 config/rofi/*
 !config/rofi/catppuccin.rasi
 !config/rofi/config.rasi
+config/gtk-3.0/bookmarks

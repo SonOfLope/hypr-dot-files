@@ -5,7 +5,7 @@
 	"modules-right": ["custom/updates","custom/wallpaper","backlight","pulseaudio","clock", "battery","custom/power"],
 	
 	"pulseaudio": {
-		"tooltip": false,
+		"tooltip": true,
 		"scroll-step": 5,
 		"format": "{icon} {volume}%",
 		"format-muted": " {volume}%",
