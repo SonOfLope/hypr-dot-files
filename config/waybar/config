@@ -2,7 +2,7 @@
 	"layer": "top",
 	"modules-left": ["custom/launcher","cpu","memory","custom/media","tray"],
 	"modules-center": ["hyprland/workspaces"],
-	"modules-right": ["custom/updates","custom/wallpaper","backlight","pulseaudio","clock", "battery","custom/power"],
+	"modules-right": ["custom/updates","custom/wallpaper","backlight","pulseaudio","custom/audio_idle_inhibitor","clock", "battery","custom/power"],
 	
 	"pulseaudio": {
 		"tooltip": true,
@@ -99,5 +99,17 @@
         "format":" ",
 	"tooltip":false,
         "on-click": "bash ~/.config/system_scripts/pkill_bc"
+    },
+    "custom/audio_idle_inhibitor": {
+	"format": "{icon}",
+	"exec": "sway-audio-idle-inhibit --dry-print-both-waybar",
+	"exec-if": "which sway-audio-idle-inhibit",
+	"return-type": "json",
+	"format-icons": {
+		"output": "",
+		"input": "",
+		"output-input": "  ",
+		"none": ""
+        }
     }
 }

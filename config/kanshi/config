@@ -1,0 +1,11 @@
+#
+# You can get the names of your outputs by running: hyprctl monitors
+{
+  output eDP-1 scale 1 mode 1920x1080 position 0,0
+}
+
+{
+  output eDP-1 scale 1 mode 1920x1080 position 0,0
+  output "Hewlett Packard HP V241p 3CQ6132RQY" scale 1 mode 1920x1080 position -3840,0
+  output "LG Electronics 24M35 410NDNU8E647" scale 1 mode 1920x1080 position -1920,0
+}

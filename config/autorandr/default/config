@@ -1,6 +1,0 @@
-output XWAYLAND0
-crtc 0
-mode 1920x1080
-pos 0x0
-rate 143.88
-x-prop-non_desktop 0
