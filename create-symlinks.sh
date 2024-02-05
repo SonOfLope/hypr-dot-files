@@ -42,7 +42,7 @@ link_config() {
 
 
 link_config $(pwd)/config/alacritty ~/.config/alacritty
-link_config $(pwd)/config/autorandr ~/.config/autorandr
+link_config $(pwd)/config/kanshi ~/.config/kanshi
 link_config $(pwd)/config/hypr ~/.config/hypr
 link_config $(pwd)/config/waybar ~/.config/waybar
 link_config $(pwd)/config/system_scripts ~/.config/system_scripts

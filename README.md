@@ -18,8 +18,6 @@ cd hypr-dot-files
 
 [Alacritty](https://github.com/alacritty/alacritty) : Terminal emulator
 
-[Autorandr](https://github.com/phillipberndt/autorandr) : Tool to automatically select a display profile
-
 [Hyperland](https://github.com/hyprwm/Hyprland) : Tilling compositor
 
 [hyprpaper](https://github.com/hyprwm/hyprpaper) : Wallpaper utility for Hyprland (will replace completely swaybg when I have time)
@@ -34,9 +32,15 @@ cd hypr-dot-files
 
 [Wlogout](https://github.com/ArtsyMacaw/wlogout) : A Wayland-based logout menu
 
-[Swaylock](https://github.com/swaywm/swaylock) : Screen locker for Wayland
+[swaylock](https://github.com/swaywm/swaylock) : Screen locker for Wayland
+
+[swayIdle](https://github.com/swaywm/swayidle) : Idle management daemon
+
+[SwayAudioIdleInhibit](https://github.com/ErikReider/SwayAudioIdleInhibit#swayaudioidleinhibit) : Prevents idle and lock if there's audio playback
 
 [swaybg](https://github.com/swaywm/swaybg) : Wallpaper utility for wayland 
+
+[Kanshi](https://git.sr.ht/~emersion/kanshi/) : Dynamic display configuration
 
 [Neofetch](https://github.com/dylanaraps/neofetch) : system information tool
 

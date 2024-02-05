@@ -4,7 +4,7 @@ import:
   - ~/.config/alacritty/dracula.yml
 
 window:
-  opacity: 0.9
+  opacity: 0.4
   padding:
     x: 6
     y: 6
