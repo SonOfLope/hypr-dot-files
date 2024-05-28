@@ -14,3 +14,8 @@
   output eDP-1 scale 1 mode 1920x1080 position 0,0
   output "LG Electronics BK550Y 201NTGYMS407" scale 1 mode 1920x1080 position -1920,0
 }
+
+{
+  output eDP-1 scale 1 mode 1920x1080 position 0,0
+  output "Crestron" scale 1 mode 1920x1080 position -1920,0
+}

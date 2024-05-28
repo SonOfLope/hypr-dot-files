@@ -8,14 +8,15 @@ clock
 timestr=%r
 datestr=%a, %e %B
 screenshots
-fade-in=1
-effect-blur=10x5
+fade-in=0.2
+effect-blur=20x5
 
 indicator
 indicator-radius=150
 indicator-thickness=30
 indicator-caps-lock
-
+grace=5
+effect-vignette=0.2:0.8
 key-hl-color=076678
 
 separator-color=076678
